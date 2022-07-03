@@ -1,0 +1,23 @@
+div{
+  display: inline-block;
+}
+
+.Board{
+  width: 2000px;
+  height: 2000px;
+}
+.Row{
+  width: 2000px;
+  height: 40px
+}
+.cell{
+  width: 40px;
+  height: 40px;
+}
+
+.even{
+  background-color: red;
+}
+.odd{
+  background-color: blue;
+}
